@@ -404,7 +404,7 @@ header .icons a:hover{
     padding:1rem;
     font-size: 1.7rem;
     box-shadow: 0 .5rem 1.5rem rgba(229, 219, 219, 0.14);
-    color:rgba(255, 255, 255, 0.158);
+    color:rgb(255, 255, 255);
     background-color: #19181822;
     text-transform: none;
     border:.1rem solid rgba(106, 106, 103, 0.159);
